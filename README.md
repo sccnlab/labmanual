@@ -70,7 +70,7 @@ You will be expected to:
 - Develop your own independent line of research
 - Mentor undergraduate and graduate students on their research projects, when asked or when appropriate
 - Apply for external funding (e.g., NRSA, K99). Stefano will hire postdocs only when there is funding available for at least one year; however, applying for external funding is a valuable experience and, if awarded, it will release those dedicated funds for other purposes
-- Apply for jobs (academic or industry) as soon as you are "ready" and/or by the end of beginning of your fourth year as a postdoc.
+- Apply for jobs (academic or industry) as soon as you are "ready" and/or by the beginning of your fourth year as a postdoc.
 - If you are planning to pursue a non-academic career, treat your postdoctoral research as seriously as you might if you were pursuing an academic career. We can discuss ways of making sure that you are getting the training you need, while still doing excellent research
 - Remind Stefano that different scientific opinions can co-exist in the same lab! 
 
@@ -88,56 +88,54 @@ You will be expected to:
 You will be expected to:
 - Work on your own research project (developed with Stefano’s help)
 - Maintain the lab IRB protocols and paperwork, including submitting amendments when necessary
-- Coordinate the scheduling of meetings and events, including lab meetings, 1:1 meetings between Stefano and other lab members, invited talks, and lab social events; send reminders by email when appropriate
-- Oversee the hiring, scheduling, and training of undergraduate research assistants, at times when Stefano is not handling this directly
-- Maintain the lab website and lab wiki, update the lab manual, add events to the lab calendars
-- Assist with participant recruitment and scheduling for in-person experiments
-- Assist other lab members with data collection or analysis (typically you will be assigned to particular projects).
-- Help to maintain an atmosphere of professionalism within the lab.
-- Work on your own research project.
+- Handle lab finances when appropriate, such as purchasing food/supplies, keeping track of receipts, and completing p-card paperwork
+- Coordinate the scheduling of meetings and events, including lab meetings, 1:1 meetings between Stefano and other lab members, invited research talks, and lab social events; update the lab calendar and send reminders by email when appropriate
+- Oversee the hiring and scheduling of undergraduate research assistants (except for cases when Stefano is handling this directly)
+- Maintain the lab website and lab wiki; update the lab manual
+- Check the [lab email address](mailto:sccnlab@gmail.com) regularly; take care of any emails that you can, forward the rest to Stefano
+- Help new lab members with onboarding, including giving them access to the lab wiki, lab GitHub, and lab calendar
+- Assist with participant recruitment/scheduling and booking testing rooms for in-person experiments
+- Assist other lab members with data collection or analysis when asked or when appropriate
+- Help to maintain an atmosphere of professionalism within the lab
 
 ## Other full-time staff
-All of the [above](#everyone), plus you will be expected to:
-- Work on your own research project.
-- Assist other lab members with data collection or analysis (typically you will be assigned to particular projects).
-- Help to maintain an atmosphere of professionalism within the lab.
-- Provide extra support to the lab manager.
+You will be expected to:
+- Work on your own research project
+- Assist other lab members with data collection or analysis (typically you will be assigned to particular projects)
+- Help to maintain an atmosphere of professionalism within the lab
+- Provide extra support to the lab coordinators
 
 ## Undergraduate students
-All of the [above](#everyone), plus you will be expected to:
-- Assist other lab members with data collection or analysis (typically you will be assigned to particular projects).
-- Work with the lab manager and/or your research mentor to determine your weekly schedule. If you are not able to come in during your normal scheduled time, you must let the lab manager know.
-- Provide extra support to the lab manager (this may include filing paperwork). If you are in lab and do not have a task to do, you should ask the lab manager or your supervisor whether there is anything you can help out with.
-- At the beginning of each semester, complete the start-of-semester form pinned to the `#undergrads` channel on Slack.
-- At the end of each semester, complete the end-of-semester form pinned to the `#undergrads` channel on Slack.
-- Undergraduates who work in the lab for a full semester may have the option to assist with an EEG project during the following semesters in the lab.
-- Undergraduates who work in the lab for a full year may have the option to assist with an fMRI project during the following semesters in the lab.
+You will be expected to:
+- Assist other lab members with data collection or analysis (unless you are working on your own independent project under the mentorship of another lab member, in which case you should work on that)
+- Work with a lab coordinator and/or your research mentor to determine your weekly schedule; you should be coming in every week, and scheduling enough time to get your work done
+- Provide extra support to the lab coordinator (this may include filing paperwork). If you are in lab and do not have a task to do, you should ask a lab coordinator or your supervisor whether there is anything you can help out with
 - *If you are earning course credit for research, you must additionally:*
- - Attend at least one of our lab meetings or journal clubs per week.
- - Present at one meeting during the semester.
- - Write a short essay on your research topic or experiences at the end of the semester.
+  - Attend lab meetings when your course schedule permits
+  - Present at one meeting during the semester
+  - Write a short essay on your research topic or experiences at the end of the semester
 - For more information about undergraduate research positions, refer to the [Undergraduate research](#undergraduate-research) section below.
 
 # Code of conduct
 ## General
-Many topics were covered already in the [Lab member expectations & responsibilities](#lab-member-expectations-and-responsibilities) section.
+Many topics have been covered in the [Lab member expectations & responsibilities](#lab-member-expectations-and-responsibilities) section.
 
 **In addition:**
 
-All members of the lab, along with visitors, are expected to agree with the following code of conduct. We will enforce this code as needed. We expect cooperation from all members to help ensuring a safe environment for everybody. Please also see the Boston College [Discriminatory Harassment Policy](http://www.bc.edu/content/dam/files/offices/policies/pdf/policies/I/1-200-025.pdf).
+All members of the lab, along with visitors, are expected to agree to the following code of conduct. We will enforce this code as needed. We expect cooperation from all members to help ensuring a safe environment for everybody. Please also see the Boston College Discriminatory Harassment Policy, which can be found [here](http://www.bc.edu/content/dam/files/offices/policies/pdf/policies/I/1-200-025.pdf), as well as many other essential Boston College policies, which can be found [here](https://www.bc.edu/offices/diversity/compliance.html).
 
 ### The Quick Version
 
-The lab is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We do not tolerate harassment of lab members in any form. Sexual language and imagery is generally not appropriate for any lab venue, including lab meetings, presentations, or discussions.
+The lab is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, culture, ethnicity, or religion (or lack thereof). We do not tolerate harassment of lab members in any form. Sexual language and imagery is not appropriate for any lab venue, including lab meetings, presentations, discussions, or outings.
 
 ### The Less Quick Version
 Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
 Members asked to stop any harassing behavior are expected to comply immediately.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Maureen Ritchey immediately. If Maureen is the cause of your concern, then please reach out to the department chair or another trusted departmental member who can assist.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Stefano immediately. If Stefano is the cause of your concern, then please reach out to the department chair or another trusted departmental member who can assist.
 
-We expect members to follow these guidelines at any lab-related event.
+We expect members to follow these guidelines at any lab-related event or gathering and in all lab communications.
 
 >This section was adapted from: [code of conduct](http://ivory.idyll.org/lab/coc.html). Original source and credit: http://2012.jsconf.us/#/about & The Ada Initiative. This work is licensed under a Creative Commons Attribution 3.0 Unported License.
 
