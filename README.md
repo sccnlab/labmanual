@@ -27,67 +27,71 @@
 
 # Introduction
 
-Welcome to the Memory Modulation Lab manual. This manual was developed by me, [Maureen Ritchey](http://www.thememolab.org/people/ritchey/). It is intended to represent my vision for how the lab should function and to complement existing Boston College [policies](http://www.bc.edu/offices/policies/universitypolicies.html) (which take precedence). **Upon joining the lab, all lab members are required to read the lab manual and sign a [form](https://docs.google.com/document/d/1dVIsL28tz7GCh6loME4LX2yn1bhKC0BKpLCwAt5I3Fs/edit?usp=sharing) indicating that they have done so.** I expect that more information will be added and some sections will be revised as the lab grows and develops. If you have any comments or suggestions regarding the contents of this manual, please tell me.
+Welcome to the Social and Cognitive Computational Neuroscience Lab Manual. This manual was developed and is maintained by the lab coordinators of the SCCN Lab, with guidance from the PI, Stefano Anzellotti. It is intended to represent Stefano's vision for how the lab should function and to complement existing Boston College [policies](http://www.bc.edu/offices/policies/universitypolicies.html) (which take precedence). **Upon joining the lab, all lab members are required to read the lab manual and sign a [form](https://docs.google.com/document/d/1dVIsL28tz7GCh6loME4LX2yn1bhKC0BKpLCwAt5I3Fs/edit?usp=sharing) indicating that they have done so.** More information may be added and some sections will be revised as the lab grows and develops. If you have any comments or suggestions regarding the contents of this manual, please contact Stefano.
 
-The MemoLab manual was inspired by other [similar](http://jpeelle.net/peellelab_manual.pdf) [works](http://ivory.idyll.org/lab/coc.html). In some places, I have adapted or reproduced content from the [Peelle lab manual](https://github.com/jpeelle/peellelab_manual). This work is licensed under a [CC Attribution 4.0 license](http://creativecommons.org/licenses/by/4.0/).
+The SCCN Lab Manual was inspired by [other](https://github.com/alylab/labmanual) [similar](https://github.com/memobc/memolab-manual) [works](https://github.com/jpeelle/peellelab_manual). In some places, the creators of this manual have adapted or reproduced content from the [MemoLab manual](https://github.com/memobc/memolab-manual), the [Aly Lab manual](https://github.com/alylab/labmanual) and the [Peelle lab manual](https://github.com/jpeelle/peellelab_manual). These works are licensed under a [CC Attribution 4.0 license](http://creativecommons.org/licenses/by/4.0/).
 
 # Lab member expectations and responsibilities
 ## Everyone
 ### Big picture
-- Do work that you are proud of. Do work that others will care about.
-- Double-check your work. Being a little obsessive is essential to good science.
+- Do work that you are passionate about, work hard at it, and be proud of it. Do work that others will care about.
+- Double- and triple-check your work. Being a little obsessive is essential to good science.
 - Be supportive of your labmates. We are a team.
-- Work independently when you can, ask for help when you need it.
+- Work independently when you can; ask for help when you need it.
 - Share your knowledge. Mentorship can take many forms.
-- Respect each others' strengths, weaknesses, differences, and beliefs.
-- Science is a marathon, not a sprint. Take personal time/ vacation when you need it and cultivate a life outside of the lab. Respect that other lab members also have a life outside of lab.
+- Respect each other's strengths, weaknesses, differences, identities, and beliefs.
+- Respect each other's right to have a safe, clean, quiet, and comfortable working environment. 
+- Science is a marathon, not a sprint. Take personal time/vacation when you need it and cultivate a life outside of the lab. Respect that other lab members also have a life outside of lab.
 - Communicate openly and respectfully with other members of the lab.
-- If you have an issue with another lab member that cannot be solved by talking with them about it, please talk with Maureen. If you have an issue with Maureen, please reach out to another member of the psychology department who can intervene (this can be the lab manager for smaller lab issues, or another faculty member or the department chair for more serious issues).
-- Academia may feel different from other types of jobs, but it is still a job. You should treat coming into lab with the same respect that you would treat any other position. See [Hours](#hours).
+- If you have an issue with another lab member that cannot be solved by talking with them about it, please talk with Stefano. If you have an issue with Stefano, please reach out to another member of the Psychology Department who can intervene (this can be a lab coordinator for smaller lab issues, or another faculty member or the department chair for more serious issues).
+- Academia may feel different from other types of jobs, but it is still a job. You should treat coming into the lab with the same respect that you would treat any other position. See [Hours](#hours).
 
 ### Small picture
-- Do not come into the lab if you are sick. Stay home and get healthy, and don't risk getting others sick.
-- Notify the lab manager or me if you will be out, either due to illness or vacation. Make a note on the lab calendar. If you are sick and you had experiments or meetings scheduled that day, notify your participants or collaborators and reschedule.
-- You are not expected to come into lab on [staff holidays](http://www.bc.edu/offices/hr/resources/campusinfo/holidays.html). If you are being paid, then you *are* expected to come into lab during university breaks (except for staff holidays or if you're taking your [paid vacation time](http://www.bc.edu/offices/hr/resources/handbook/hbk-benefits.html#vac)).
-- Lock the doors to the lab if no one else is around, even if you're stepping out for a minute.
-- Keep the lab tidy. Food messes should be cleaned up promptly, dirty dishes taken home with you, and common areas should be kept free of clutter. Items left unattended may be cleaned, reclaimed, or recycled. If you're using lab equipment, put it away when you're done.
-- The dress code in academia is generally casual. My only request is that you look semi-professional when interacting with participants and when presenting your work. Jeans are fine, gym clothes and pajamas are not.
-- Arrive to lab at least 15 minutes before you have any experiments scheduled, so that you will be there to greet the participants.
+- Do not come into the lab if you are sick. Stay home and take care of yourself, and don't risk getting others sick.
+- Notify a lab coordinator or Stefano if you will be away, whether due to illness or vacation. Indicate your absence on the lab calendar. If you are sick and you had meetings or in-person experiments scheduled that day, notify your collaborators or participants and reschedule.
+- You are not expected to come into lab on [staff holidays](http://www.bc.edu/offices/hr/resources/campusinfo/holidays.html). If you are being paid, then you *are* expected to come into lab during university breaks (except for staff holidays or if you're taking [paid vacation time](http://www.bc.edu/offices/hr/resources/handbook/hbk-benefits.html#vac)).
+- You aren't expected to work 80 hours a week, or to work from precisely 9am - 5pm every day. You *are* expected to show up to all of your commitments (classes, meetings) and to get your work done (whatever time of day you like to do it, and in the hours you need to get it done).
+- Lock the door to the lab if no one else is around, even if you're only stepping out for a minute.
+- Keep the lab tidy. Food messes and spills should be cleaned up promptly, dirty dishes taken home with you, and common areas should be kept free of clutter. 
+- The dress code is generally casual. The only request is that you look semi-professional if interacting with participants face-to-face and when presenting your work - jeans are fine; workout clothing and pajamas are not.
 
 ## PI
-All of the [above](#everyone), plus you can expect me to:
+You can expect Stefano to:
 - Maintain a vision of where the lab is going
 - Provide the funding necessary to keep the lab going
-- Meet with you regularly to discuss your research projects. The definition of "regularly" may change over time or over the course of a project, but for now, I mean once a week or more often as needed.
-- Give you my perspective on academia and issues related to professional development
+- Be available in person and via e-mail on a regular basis, including regular meetings to discuss your research projects 
+- Share his perspective on academia and issues related to professional development
 - Support your career development by introducing you to other researchers in the field, writing [recommendation letters](#recommendation-letters) for you, providing you with opportunities to attend conferences when possible, and promoting your work in talks
-- Care about you as a person and not just a scientist
-- Maintain "office hours" for the lab. See [Hours](#hours).
+- Help you prepare for the next step of your career, whether it’s graduate school, a post-doc, a faculty job, or a job outside of academia
+- Care about you, both as a person and as a scientist
 
 ## Postdocs
-All of the [above](#everyone), plus you will be expected to:
+You will be expected to:
 - Develop your own independent line of research
 - Mentor undergraduate and graduate students on their research projects, when asked or when appropriate
-- Apply for external funding (e.g., NRSA, K99). I will hire postdocs only when there is funding available for at least a year; however, applying for external funding is a valuable experience and, if awarded, it will release those dedicated funds for other purposes.
+- Apply for external funding (e.g., NRSA, K99). Stefano will hire postdocs only when there is funding available for at least one year; however, applying for external funding is a valuable experience and, if awarded, it will release those dedicated funds for other purposes
 - Apply for jobs (academic or industry) as soon as you are "ready" and/or by the end of beginning of your fourth year as a postdoc.
-- If you are planning to pursue a non-academic career, treat your postdoctoral research as seriously as you might if you were pursuing an academic career. We can discuss ways of making sure that you are getting the training you need, while still doing excellent research.
-- Remind me (the PI) that different scientific opinions can co-exist in the same lab!
+- If you are planning to pursue a non-academic career, treat your postdoctoral research as seriously as you might if you were pursuing an academic career. We can discuss ways of making sure that you are getting the training you need, while still doing excellent research
+- Remind Stefano that different scientific opinions can co-exist in the same lab! 
 
 ## Graduate students
-All of the [above](#everyone), plus you will be expected to:
-- Develop a line of dissertation research. Ideally, your dissertation research will consist of at least 3 experiments that can be packaged into one thesis document.
-- Apply for external funding (e.g., NSF GRFP or NRSA). If nothing else, this is an extremely valuable experience, and it will release you from your TA-ing responsibilities.
-- Do some soul-searching as to what type of career you want to pursue, e.g., academic jobs that are research-focused or teaching-focused, non-academic jobs like data science or science writing. We can brainstorm ways of making sure you are getting the training that you need.
-- Work with a team of undergraduate students. This will speed up data collection and give you some experience with managing and mentoring a team.
-- Stay up-to-date (and keep me up-to-date) on any deadlines that you need to meet to fulfill departmental requirements.
-- Prioritize time for research. It is easy to get caught up in coursework or TA-ing, but at the end of 5-ish years, you need to have completed a dissertation.
+You will be expected to:
+- Develop a line of dissertation research. Ideally, your dissertation research will consist of at least 3 experiments that can be packaged into one thesis document
+- Mentor undergraduate students on their research projects, when asked or when appropriate - they can help you collect data and this will give you some experience with mentoring and managing a team
+- Present your work at departmental events, at other labs (if invited), and at conferences
+- Apply for external funding (e.g., NSF, GRFP, or NRSA). This is a valuable experience that is best to get early
+- Do some soul-searching as to what type of career you want to pursue, e.g., academic jobs that are research-focused or teaching-focused, non-academic jobs like data science or science writing. We can brainstorm ways of making sure you are getting the training that you need
+- Stay up-to-date (and keep Stefano up-to-date) on any deadlines that you need to meet to fulfill departmental requirements
+- Prioritize time for research. It is easy to get caught up in coursework or TA-ing, but ultimately your research is how you earn your PhD 
 
-## Lab managers
-All of the [above](#everyone), plus you will be expected to:
-- Maintain the lab IRB protocols and paperwork (e.g., archiving consent forms).
-- Oversee the hiring, scheduling, and training of undergraduate research assistants.
-- Maintain the lab website.
-- Assist with participant recruitment and scheduling.
+## Lab coordinators
+You will be expected to:
+- Work on your own research project (developed with Stefano’s help)
+- Maintain the lab IRB protocols and paperwork, including submitting amendments when necessary
+- Coordinate the scheduling of meetings and events, including lab meetings, 1:1 meetings between Stefano and other lab members, invited talks, and lab social events; send reminders by email when appropriate
+- Oversee the hiring, scheduling, and training of undergraduate research assistants, at times when Stefano is not handling this directly
+- Maintain the lab website and lab wiki, update the lab manual, add events to the lab calendars
+- Assist with participant recruitment and scheduling for in-person experiments
 - Assist other lab members with data collection or analysis (typically you will be assigned to particular projects).
 - Help to maintain an atmosphere of professionalism within the lab.
 - Work on your own research project.
