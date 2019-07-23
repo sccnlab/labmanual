@@ -29,7 +29,7 @@
 
 Welcome to the Social and Cognitive Computational Neuroscience Lab Manual. This manual was developed and is maintained by the lab coordinators of the SCCN Lab, with guidance from the PI, Stefano Anzellotti. It is intended to represent Stefano's vision for how the lab should function and to complement existing Boston College [policies](http://www.bc.edu/offices/policies/universitypolicies.html) (which take precedence). **Upon joining the lab, all lab members are required to read the lab manual and sign a [form](https://docs.google.com/document/d/1dVIsL28tz7GCh6loME4LX2yn1bhKC0BKpLCwAt5I3Fs/edit?usp=sharing) indicating that they have done so.** More information may be added and some sections will be revised as the lab grows and develops. If you have any comments or suggestions regarding the contents of this manual, please contact Stefano.
 
-The SCCN Lab Manual was inspired by [other](https://github.com/alylab/labmanual) [similar](https://github.com/memobc/memolab-manual) [works](https://github.com/jpeelle/peellelab_manual). In some places, the creators of this manual have adapted or reproduced content from the [MemoLab manual](https://github.com/memobc/memolab-manual), the [Aly Lab manual](https://github.com/alylab/labmanual) and the [Peelle lab manual](https://github.com/jpeelle/peellelab_manual). These works are licensed under a [CC Attribution 4.0 license](http://creativecommons.org/licenses/by/4.0/).
+> The SCCN Lab Manual was inspired by [other](https://github.com/alylab/labmanual) [similar](https://github.com/memobc/memolab-manual) [works](https://github.com/jpeelle/peellelab_manual). In some places, the creators of this manual have adapted or reproduced content from the [MemoLab manual](https://github.com/memobc/memolab-manual), the [Aly Lab manual](https://github.com/alylab/labmanual) and the [Peelle lab manual](https://github.com/jpeelle/peellelab_manual). These works are licensed under a [CC Attribution 4.0 license](http://creativecommons.org/licenses/by/4.0/).
 
 # Lab member expectations and responsibilities
 ## Everyone
@@ -187,7 +187,7 @@ We have a lab email list for sending emails to the entire lab when necessary ([s
 
 We also have a lab email list for sending emails to the lab meeting group. Everyone on [sccnlabmembers@googlegroups.com](mailto:sccnlabmembers@googlegroups.com) is also on [sccnlabmeetings@googlegroups.com](mailto:sccnlabmeetings@googlegroups.com), but there are some people on the lab meeting email list that aren’t members of the lab and are just interested in attending our lab meetings. Contact a lab coordinator if you want to be added to the lab meeting listserv. 
 
-There is also a lab email account that only the lab coordinator(s) and Stefano can access ([sccnlab@gmail.com](mailto:sccnlab@gmail.com)) -- people often contact the lab (e.g. with feedback after participating in an online study) through that email address. 
+There is also a lab email account that only the lab coordinator(s) and Stefano can access ([sccnlab@gmail.com](mailto:sccnlab@gmail.com)) - people often contact the lab (e.g. with feedback after participating in an online study) through that email address. 
 
 
 ## Lab wiki
