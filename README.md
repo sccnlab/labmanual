@@ -141,12 +141,12 @@ We expect members to follow these guidelines at any lab-related event or gatheri
 
 ## Scientific integrity
 
-###Research (Mis)conduct
+### Research (Mis)conduct
 The lab, and Boston College, is committed to ensuring research integrity, and we take a hard line on research misconduct. We will not tolerate fabrication, falsification, or plagiarism. Read BC’s policies on the conduct of research carefully (main page [here](https://www.bc.edu/bc-web/research/sites/vice-provost-for-research/integrity-and-compliance/research-misconduct.html), institutional policy [here](https://www.bc.edu/content/dam/files/offices/policies/doc/policies/IV/4-210-020.pdf), more information [here](https://www.bc.edu/content/bc-web/research/sites/vice-provost-for-research/integrity-and-compliance/research-integrity-principles.html)).
 
 A big problem is why people feel the need to engage in misconduct in the first place, and that’s a discussion that we can have. If you are feeling pressured to succeed (publish a lot, publish in high impact journals), you should reach out to Stefano to talk about it – but this pressure is something we all face and is *never* an excuse to fabricate, falsify, or plagiarize. Also, think about the goal of science and why you are here: you’re here to arrive at the truth, to get as close as we can to facts about the brain and behavior. Not only is research misconduct doing you a disservice, it’s also a disservice to the field. And it risks your entire career. It is never right and never worth it. Don’t do it.
 
-###Reproducible Research
+### Reproducible Research
 
 Reproducible research is research that can be exactly reproduced (i.e. one can find the exact same results) given the *same set of data*. Reproducible research is an essential part of science, and an expectation for all projects in the lab.
 
@@ -173,22 +173,26 @@ To be added to an existing IRB, reach out to a lab coordinator and send them you
 ### CITI Training
 Upon joining the lab, all lab members must complete [CITI Training](https://www.bc.edu/bc-web/research/sites/vice-provost-for-research/research-protections/training.html) if not yet completed, save their certificate of completion, and send it to a lab coordinator. All lab members are also expected to complete the refresher course when needed according to the expiration date on their certificate. 
 
+### Adverse events
 If you encounter any problems in the course of doing research that results in a negative outcome for the participant (e.g., if a participant becomes ill or upset, if there is an accident with the equipment, if there is a breach of confidentiality, etc.), you should immediately seek assistance from Stefano or a lab coordinator. If Stefano is not around, you must notify him **within 24 hours** - always as soon as possible. In some cases, we may need to report this information to the IRB and/or funding agencies.
 
 
 # Lab Resources
 
-## Slack
+## Email
 
-Slack will be used as the primary means of lab communication, such as general lab announcements (`#general`), sharing links, sharing and/or discussing papers (`#papers`), and basically any message that can be sent without email. There's also a channel for keeping notes from our lab meetings (`#lab-meetings`), as well as channels for methods tips (e.g., `#fmri-methods`) and specific projects.
+Email will be used as the primary means of lab communication, such as general lab announcements, scheduling one-on-one meetings, and coordinating with collaborators about ongoing projects. 
 
-Try to keep each channel on topic, so that people can subscribe only to the channels that concern them. For messages to one person or a small group of people, use the direct message channels. Because we pay per Slack user, part-time RAs will be invited as "guests" to the `#undergrads` channel; these users can also use direct messages.
+We have a lab email list for sending emails to the entire lab when necessary ([sccnlabmembers@googlegroups.com](mailto:sccnlabmembers@googlegroups.com)). Contact a lab coordinator to get added to the lab email list. 
 
-Full-time lab members should install Slack to their computers and/or phones. Part-time lab members should check Slack regularly. I get Slack updates on my phone and have do-not-disturb mode enabled for evening and night hours (meaning I will not get your messages then); I encourage you to do the same.
+We also have a lab email list for sending emails to the lab meeting group. Everyone on [sccnlabmembers@googlegroups.com](mailto:sccnlabmembers@googlegroups.com) is also on ([sccnlabmeetings@googlegroups.com](mailto:sccnlabmeetings@googlegroups.com); but there are some people on the lab meeting email list that aren’t members of the lab, and are just interested in attending our lab meetings. Contact a lab coordinator if you want to be added to the lab meeting listserv. 
+
+There is also a lab email account that only the lab coordinator(s) and Stefano can access ([sccnlab@gmail.com](mailto:sccnlab@gmail.com)) -- people often contact the lab (e.g. with feedback after participating in an online study) through that email address. 
+
 
 ## Lab wiki
 
-The lab wiki will be used as a repository for lab knowledge, particularly as it pertains to research methods and documentation of lab procedures/ management. If you learn something new, share it on the wiki. If you're trying to find out how to do something, search first on the wiki.
+The lab wiki will be used as a repository for lab knowledge, particularly as it pertains to research methods and documentation of lab procedures & management. The lab wiki is a collaborative resource - if you learn something new, share it on the wiki. If you're trying to find out how to do something, search first on the wiki.
 
 ## GitHub
 
@@ -202,12 +206,9 @@ The MemoLab folder on Google Drive is used to store documents and files for gene
 
 Google Calendar is used to host a general lab calendar (MemoLab), as well as calendars for the in-lab testing rooms.
 
-## Email
-When it's necessary to forward or send emails to the entire lab, we have a list for that: `memolab-list@bc.edu` (registered users only). We also have a lab email account that goes to only me and the lab manager: `thememolab@bc.edu`.
-
 # General policies
 ## Hours
-One of the benefits of a career in academic research is that it is typically more flexible than other kinds of jobs. However, you should still treat it like a job. If you are employed for 40 hours a week, you should be working 40 hours a week. This applies to lab staff members (the lab manager and other research assistants) and postdocs. You are not required to work over-time. For graduate students, I recognize that you have other demands on your time like classes and TA-ing but still expect to see you in lab, doing research, often.
+One of the benefits of a career in academic research is that it is typically more flexible than other kinds of jobs. However, you should still treat it like a job. If you are employed for 35 hours a week, you should be working 35 hours a week. This applies to lab staff members (the lab coordinators and other research assistants) and postdocs. You are not required to work overtime. For graduate students, Stefano recognizes that you have other demands on your time like classes and TA-ing but still expect to see you in lab, doing research, often.
 
 Lab staff members are expected to keep regular office hours (e.g., somewhere in the ballpark of 9-5). Graduate students and postdocs have more flexibility. However, in order to encourage lab interaction, I expect that all lab members will be in the lab, at minimum, most weekdays between 11am and 3pm or so.
 
