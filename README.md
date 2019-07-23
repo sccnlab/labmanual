@@ -181,30 +181,28 @@ If you encounter any problems in the course of doing research that results in a 
 
 ## Email
 
-Email will be used as the primary means of lab communication, such as general lab announcements, scheduling one-on-one meetings, and coordinating with collaborators about ongoing projects. 
+Email will be used as the primary means of lab communication, such as general lab announcements, scheduling one-on-one meetings, and coordinating with collaborators about ongoing projects. Lab members, including Stefano and lab coordinators, may send or reply to emails late in the evening or on weekends/holidays, but they do not expect others to immediately read or respond to emails sent at such times. Stefano encourages all lab members to prioritize time away from work and to take care of email communications during your normal working hours, whatever those may be. 
 
-We have a lab email list for sending emails to the entire lab when necessary ([sccnlabmembers@googlegroups.com](mailto:sccnlabmembers@googlegroups.com)). Contact a lab coordinator to get added to the lab email list. 
-
-We also have a lab email list for sending emails to the lab meeting group. Everyone on [sccnlabmembers@googlegroups.com](mailto:sccnlabmembers@googlegroups.com) is also on [sccnlabmeetings@googlegroups.com](mailto:sccnlabmeetings@googlegroups.com), but there are some people on the lab meeting email list that aren’t members of the lab and are just interested in attending our lab meetings. Contact a lab coordinator if you want to be added to the lab meeting listserv. 
+We have an email list for sending emails to the entire lab when necessary ([sccnlabmembers@googlegroups.com](mailto:sccnlabmembers@googlegroups.com)). We also have an email list for sending emails to the lab meeting group ([sccnlabmeetings@googlegroups.com](mailto:sccnlabmeetings@googlegroups.com)). All lab members are on the lab meeting email list, but there are also some people on the list that aren’t members of the lab and are just interested in attending our lab meetings. Contact a lab coordinator to be added to the lab email lists.
 
 There is also a lab email account that only the lab coordinator(s) and Stefano can access ([sccnlab@gmail.com](mailto:sccnlab@gmail.com)) - people often contact the lab (e.g. with feedback after participating in an online study) through that email address. 
 
 
 ## Lab wiki
 
-The lab wiki will be used as a repository for lab knowledge, particularly as it pertains to research methods and documentation of lab procedures & management. The lab wiki is a collaborative resource - if you learn something new, share it on the wiki. If you're trying to find out how to do something, search first on the wiki. The wiki is used to store documents and files for general lab use (e.g. IRB documents, PDFs, etc.). (EDIT: enter other info here about editing permissions)
+The lab wiki will be used as a repository for lab knowledge, particularly as it pertains to research methods and documentation of lab procedures & management. The lab wiki is a collaborative resource - if you learn something new, share it on the wiki. If you're trying to find out how to do something, search first on the wiki. The wiki is also used to store documents and files for general lab use (e.g. IRB documents, PDFs, etc.). All lab members who have access to the wiki have permission to edit it. These changes will automatically be saved in a "draft" format; however, only lab coordinators have permission to *publish* the changes, so please contact a lab coordinator each time you edit the wiki so they can review your changes and publish it for you. 
 
 ## GitHub
 
-All projects that involve programming of any kind are encouraged to use some form of version control. We have a GitHub organization set up with unlimited private repositories, allowing you to sync your code to the cloud and share it easily with other lab members. We will also use GitHub for sharing script examples and hosting lab toolboxes for general use.
+All projects that involve programming of any kind are encouraged to use some form of version control. We have a GitHub Team set up with unlimited private repositories, allowing you to sync your code to the cloud and share it easily with other lab members. We will also use GitHub for sharing script examples and hosting lab toolboxes for general use. The lab GitHub is [https://github.com/sccnlab](https://github.com/sccnlab).
 
 ## Google Drive
 
-The SCCN Lab folder (EDIT: create/rename this) on Google Drive is used to store documents and files for general lab use (e.g. IRB documents, stimuli, PDFs, etc.).
+The SCCN Lab folder on Google Drive is used to store documents and files for general lab use that do not necessarily need to be on the wiki (CITI certificates, stimuli, etc.).
 
 ## Google Calendar
 
-Google Calendar is used to host a general lab calendar (MemoLab), as well as calendars for the in-lab testing rooms.
+Google Calendar is used to host a general lab calendar (SCCN Lab). This calendar will show lab meetings, one-on-one meetings with Stefano, lab events, and lab member absences. 
 
 # General policies
 ## Hours
