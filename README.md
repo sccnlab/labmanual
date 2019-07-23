@@ -185,22 +185,22 @@ Email will be used as the primary means of lab communication, such as general la
 
 We have a lab email list for sending emails to the entire lab when necessary ([sccnlabmembers@googlegroups.com](mailto:sccnlabmembers@googlegroups.com)). Contact a lab coordinator to get added to the lab email list. 
 
-We also have a lab email list for sending emails to the lab meeting group. Everyone on [sccnlabmembers@googlegroups.com](mailto:sccnlabmembers@googlegroups.com) is also on ([sccnlabmeetings@googlegroups.com](mailto:sccnlabmeetings@googlegroups.com); but there are some people on the lab meeting email list that aren’t members of the lab, and are just interested in attending our lab meetings. Contact a lab coordinator if you want to be added to the lab meeting listserv. 
+We also have a lab email list for sending emails to the lab meeting group. Everyone on [sccnlabmembers@googlegroups.com](mailto:sccnlabmembers@googlegroups.com) is also on [sccnlabmeetings@googlegroups.com](mailto:sccnlabmeetings@googlegroups.com), but there are some people on the lab meeting email list that aren’t members of the lab and are just interested in attending our lab meetings. Contact a lab coordinator if you want to be added to the lab meeting listserv. 
 
 There is also a lab email account that only the lab coordinator(s) and Stefano can access ([sccnlab@gmail.com](mailto:sccnlab@gmail.com)) -- people often contact the lab (e.g. with feedback after participating in an online study) through that email address. 
 
 
 ## Lab wiki
 
-The lab wiki will be used as a repository for lab knowledge, particularly as it pertains to research methods and documentation of lab procedures & management. The lab wiki is a collaborative resource - if you learn something new, share it on the wiki. If you're trying to find out how to do something, search first on the wiki.
+The lab wiki will be used as a repository for lab knowledge, particularly as it pertains to research methods and documentation of lab procedures & management. The lab wiki is a collaborative resource - if you learn something new, share it on the wiki. If you're trying to find out how to do something, search first on the wiki. The wiki is used to store documents and files for general lab use (e.g. IRB documents, PDFs, etc.). (EDIT: enter other info here about editing permissions)
 
 ## GitHub
 
-All projects that involve programming of any kind must use some form of version control. We have a GitHub organization set up with unlimited private repositories, allowing you to sync your code to the cloud and share it easily with other lab members. We will also use GitHub for sharing script examples and hosting lab toolboxes for general use.
+All projects that involve programming of any kind are encouraged to use some form of version control. We have a GitHub organization set up with unlimited private repositories, allowing you to sync your code to the cloud and share it easily with other lab members. We will also use GitHub for sharing script examples and hosting lab toolboxes for general use.
 
 ## Google Drive
 
-The MemoLab folder on Google Drive is used to store documents and files for general lab use (e.g., IRB documents, stimuli, pdfs, etc). It can also be used for some forms of non-identifiable [data](#data-management).
+The SCCN Lab folder (EDIT: create/rename this) on Google Drive is used to store documents and files for general lab use (e.g. IRB documents, stimuli, PDFs, etc.).
 
 ## Google Calendar
 
