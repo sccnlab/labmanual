@@ -28,6 +28,9 @@
   - [Data management](#data-management)
   - [Open Science](#open-science)
 - [Lab finances](#lab-finances)
+  - [Funding](#funding)
+  - [Lab purchases](#lab-purchases)
+  - [Reimbursements](#reimbursements)
 - [Undergraduate research](#undergraduate-research)
 - [FAQ](#faq-and-who-to-ask)
 
@@ -277,7 +280,7 @@ In general, data will be stored in one of three places:
 These locations are approved on our IRB protocol. They are all backed up regularly, which make them particularly appealing options for data storage. In general, you should not store data locally on your computer.
 
 ### Data organization
-My project folders typically look something like this:
+Lab members' project folders typically look something like this:
 - `ProjectName/Data`
   - contains a folder for raw data - always keep a copy of the raw (i.e., unprocessed) data & keep it separate from the copy that you're using in your pipeline
 - `ProjectName/Analysis`
@@ -290,7 +293,7 @@ My project folders typically look something like this:
   - contains subfolders for different kinds of scripts, e.g., behav, preproc, helper, model, mvpa, etc
   - the Scripts folder is git-tracked & contains a README.md file that describes as much info as possible about the study
 
-I encourage you to use an organization scheme like this one. When you archive the dataset, you will be required to format it like this (or something similarly transparent in its organization), so might as well start that way. For neuroimaging datasets, you should additionally consult the [BIDS](http://bids.neuroimaging.io/) framework.
+Stefano encourage you to use an organization scheme like this one. When you archive the dataset, you will be required to format it like this (or something similarly transparent in its organization), so might as well start that way. For neuroimaging datasets, you should additionally consult the [BIDS](http://bids.neuroimaging.io/) framework.
 
 ### Archiving inactive datasets
 Before you leave, or upon completion of a project, you must archive old datasets and back them up. We will develop the instructions for this when we reach our first inactive dataset.
@@ -308,16 +311,20 @@ Funding for the lab comes from:
  - Stefano's start-up package from Boston College
  - The Simons Foundation Autism Research Initiative Pilot Award
  - ???
+ 
 Stefano will oversee all aspects of the financial management of our funding sources. However, it is important to him to be transparent about where research money comes from and how it's spent - please do not hesitate to ask if you want to know more details. At some point, you will likely be asked to provide a figure or two for a grant Stefano is writing, and/or provide feedback on the grant. Relatedly, you are entitled to read any grant Stefano has submitted, whether it is ultimately funded or not. Aside from being a good opportunity to learn how grants are written, this will also allow you to see his vision for the lab in the years ahead. Feel free to ask Stefano to see any of his grants.
 
 ## Lab purchases
-Supply requests can be made by email to a lab coordinator and can include things such as books, computer accessories, etc. General lab supplies are replenished by lab coordinators as needed. If you need something and you’re not sure if the lab is able to cover the cost or not, just ask a lab coordinator or Stefano!
+Lab coordinators, overseen by Stefano, are able to make purchases using the lab p-card. Supply requests can be made by email to a lab coordinator and can include things such as books, computer accessories, etc. General lab supplies are replenished by lab coordinators as needed. If you need something and you’re not sure if the lab is able to cover the cost or not, just ask a lab coordinator or Stefano!
 
 ## Reimbursements
 
+Lab members can request reimbursement for out-of-pocket business expenses by filling out an expense report and emailing the completed form, as well as all relevant receipts, to the [Psych Office](mailto:psychoffice@bc.edu) (the form can be downloaded from the Forms page on the lab wiki). If the purchase was made in person rather than online, then you must submit the original receipts, along with the expense report, directly to the Psych Office (no scans or photos allowed). All expense reports should be submitted within 30 days of the incurred expense. 
+
+Occasionally, non-lab members may incur costs for which they need reimbursement, such as the cost of an invited speaker's travel to/from the lab - in this case, a lab coordinator will fill out a Non-employee Expense Report (found on the lab wiki) on that person's behalf.
 
 # Undergraduate research
-Undergraduate research assistants play an important role in our lab, and we have a few opportunities for them to earn money or credit for their contributions. Because these opportunities require a certain degree of commitment from both the student and the lab, we generally reserve them for students who have already spent at least one semester volunteering in lab. If this policy would prevent you from being able to work in lab, please talk to Stefano or a lab coordinator because we want all students to be able to pursue their research interests.
+Undergraduate research assistants play an important role in the lab, and we have a few opportunities for them to earn money or credit for their contributions. Because these opportunities require a certain degree of commitment from both the student and the lab, we generally reserve them for students who have already spent at least one semester volunteering in lab. If this policy would prevent you from being able to work in lab, please talk to Stefano or a lab coordinator because we want all students to be able to pursue their research interests.
 
 In addition to volunteering in lab, other research opportunities include:
  1. If you want to work in lab and earn course credit, you can sign up for independent study or undergraduate research ([link to info](https://www.bc.edu/bc-web/schools/mcas/departments/psychology/undergraduate/research-opportunities.html)). We will have to fill out a syllabus contract at the beginning of the semester. Typically you would be in lab for at least 10 hours a week, and you would also be required to attend lab meetings, present at one of them, and write a short statement about your experiences at the end of the semester. Note that you can enroll in research courses multiple times.
