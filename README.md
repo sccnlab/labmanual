@@ -26,7 +26,6 @@
   - [Lab travel](#lab-travel)
   - [Recommendation letters](#recommendation-letters)
   - [Data management](#data-management)
-  - [Open Science](#open-science)
 - [Lab finances](#lab-finances)
   - [Funding](#funding)
   - [Lab purchases](#lab-purchases)
@@ -298,8 +297,7 @@ Stefano encourage you to use an organization scheme like this one. When you arch
 ### Archiving inactive datasets
 Before you leave, or upon completion of a project, you must archive old datasets and back them up. We will develop the instructions for this when we reach our first inactive dataset.
 
-## Open Science
-
+### Open science
 We’re all for open science, so lab members are encouraged to share their code and data with others both in and out of the lab. Within lab, you can share your code and data whenever you like. Please wait to share your code or data publicly until both you and Stefano agree that it is clean, polished, and the lab has finished working with it. This gives us an opportunity to work with the data to meet our needs (including grant needs!) before releasing it for other people to use. Generally, we will try to make our data and code publicly available within one year of publishing the results (longer if work on the dataset is ongoing).  Currently, the best option for sharing smaller datasets seems to be the Open Science Framework, and the best option for sharing MRI datasets is [OpenFMRI](https://openfmri.org/). 
 
 We will also share our work with the world as soon as we are ready, which means preprints! The lab policy is to upload a preprint of a manuscript simultaneously with initial submission to a journal. The preferred preprint servers are bioRxiv and PsyArXiv. We will also put PDFs of all our papers on the lab website, and you should share PDFs of your paper with whoever asks.
