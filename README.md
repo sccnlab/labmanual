@@ -13,6 +13,11 @@
   - [Scientific integrity](#scientific-integrity)
   - [Human subjects research](#human-subjects-research)
 - [Lab resources](#lab-resources)
+  - [Email](#email)
+  - [Lab wiki](#lab-wiki)
+  - [GitHub](#github)
+  - [Google Drive](#google-drive)
+  - [Google Calendar](#google-calendar)
 - [General policies](#general-policies)
   - [Hours](#hours)
   - [Meetings](#meetings)
@@ -21,7 +26,8 @@
   - [Lab travel](#lab-travel)
   - [Recommendation letters](#recommendation-letters)
   - [Data management](#data-management)
-- [Funding](#funding)
+  - [Open Science](#open-science)
+- [Lab finances](#lab-finances)
 - [Undergraduate research](#undergraduate-research)
 - [FAQ](#faq-and-who-to-ask)
 
@@ -210,7 +216,7 @@ One of the benefits of a career in academic research is that it is typically mor
 
 Being in lab is a good way of learning from others, helping others, building camaraderie, having fast and easy access to the resources and people you may need, and being relatively free from distractions. Stefano's primary concern is that you get your work done, so if you find that you are sometimes more productive at home, feel free to work from home occasionally. If you have no meetings, no in-person experiments, and no other obligations on  a particular day, for example, that might be a good day to work from home – but avoid making it your default, and Stefano expects to see everyone in the lab on a regular basis. To maximize lab member interaction, Stefano encourages full-time lab members to try to be in the lab most weekdays during ‘peak’ hours (assuming no other obligations) – e.g., between 11am and 4pm. This is a guideline, not a hard rule - you can work from home occasionally, and Stefano understands other obligations. 
 
-Stefano, lab coordinators, and other lab members may sometimes work late at night or on weekends. This means that they will sometimes send emails outside of normal working hours. They do not expect you to respond until you are back at work. Stefano does not expect there to be cases when he suddenly and urgently needs something from you over the weekend, but should he anticipate that happening (e.g., for a grant deadline), he will bring it up in advance so you can plan accordingly. As mentioned above in the [Email](## Email) section, Stefano encourages all lab members to prioritize time away from work and to take care of email communications during your normal working hours, whatever those may be.
+Stefano, lab coordinators, and other lab members may sometimes work late at night or on weekends. This means that they will sometimes send emails outside of normal working hours. They do not expect you to respond until you are back at work. Stefano does not expect there to be cases when he suddenly and urgently needs something from you over the weekend, but should he anticipate that happening (e.g., for a grant deadline), he will bring it up in advance so you can plan accordingly. As mentioned above in the [Email](#email) section, Stefano encourages all lab members to prioritize time away from work and to take care of email communications during your normal working hours, whatever those may be.
 
 ### PI office hours
 In addition to weekly meetings (see below), Stefano will be in his office for at least part of each day that he is on campus. His door is often open; if it is, feel free to stop in if you need to discuss something. If his door is closed, assume that Stefano is either gone, in a meeting in his office, or is working and does not want to be disturbed – so unless it is an urgent matter, please email rather than knocking.
@@ -226,92 +232,100 @@ Researchers from other universities will occasionally come to the lab to give ta
 At the beginning of each semester, the lab coordinator(s) will schedule weekly one-on-one meetings between Stefano and each respective full-time lab member. The meetings are expected to last no more than one hour, but may occasionally be longer if necessary (and if both parties' schedules allow). If you do not have anything to discuss in a given week, that's fine - you can just stop in to say hi or cancel it. Part-time lab members, such as undergraduates, that are being mentored/supervised by Stefano directly will also have a weekly meeting with him. Those without regularly weekly meetings are still welcome to schedule meetings with Stefano as needed. 
 
 ### Joint lab meetings
-We will occasionally be invited to joint lab meetings with the [Morality Lab](https://moralitylab.bc.edu/). Joint lab meeting topics will include project presentations, article discussions, and invited talks. All lab members (both full-time and part-time) are encouraged, but not required, to attend.
+We will occasionally be invited to joint lab meetings with the [Morality Lab](https://moralitylab.bc.edu/) or other labs at BC. Joint lab meeting topics will include project presentations, article discussions, and invited talks. All lab members (both full-time and part-time) are encouraged, but not required, to attend.
 
 ## Deadlines
-If you need something from Stefano by a particular deadline, please inform him *as soon as you are aware of the deadline* so that he can allocate his time as efficiently as possible. He will expect at least one week's notice, but greatly prefers two weeks' notice. Please note that this applies to reading/commenting on abstracts, papers, and manuscripts, in addition to filling out paperwork, etc. He will *require* two weeks' notice for letters of recommendation. If you do not adhere to these guidelines, he may not be able to meet your deadline. 
+If you need something from Stefano by a particular deadline, please inform him *as soon as you are aware of the deadline* so that he can allocate his time as efficiently as possible, and make sure he is aware of it the closer it gets. Don’t be afraid to bug him about it. 
+- Give Stefano at least one week’s notice to do something with a hard deadline that doesn’t require a lot of time (e.g., reading/commenting on conference abstracts, filling out paperwork, etc). 
+- Give Stefano at least two weeks’ notice (preferably more) to do something with a hard deadline that requires a moderate amount of time (e.g., a letter of recommendation). 
+- If you want feedback on research and teaching statements, or other work that requires multiple back-and-forth interactions between you and Stefano before a hard deadline, give him as much time as you can; at the very least three weeks.
+- For manuscript submissions and revisions (i.e., which either have no deadline at all or only a weak deadline), send drafts to Stefano as soon as you have them, and bug him to give you feedback if he hasn’t responded in two weeks – papers are important!
+
+If you do not adhere to these guidelines, Stefano may not be able to meet your deadline. 
 
 ## Presentations
-I encourage you to seek out opportunities to present your research to the department, research community, or general public. If you are going to give a presentation (including posters and talks), please be prepared to give a practice presentation to the lab at least one week ahead of time. Not only will this help you feel comfortable with the presentation, it will give you time to implement any feedback. I care about practice presentations because a) presenting your work is a huge part of being successful in science and it's important that you practice those skills as often as possible, and b) you are going to be representing not only yourself but also the rest of the lab.
+Stefano encourages you to seek out opportunities to present your research to the department, research community, or general public. If you are going to give a presentation (including posters and talks), please be prepared to give a practice presentation to the lab at least one week ahead of time (two weeks or more is advisable for conference presentations, and many weeks ahead of time is advisable for job talks, which require much refining). Not only will this help you feel comfortable with the presentation, it will give you time to implement feedback. Stefano cares about practice presentations because a) presenting your work is a huge part of being successful in science and it's important that you practice those skills as often as possible, and b) you are going to be representing not only yourself but also the rest of the lab. 
 
-There is a lab template for posters that you are free to modify as you see fit, but the header and general aesthetic should stay similar. If you have ideas for how to improve the poster template, please show the lab so we can decide whether to implement them as a group. This will help increase the visibility of our lab at conferences. (Don't believe me? Check out the various lab "walls" at the next conference you attend.) There is no template for talks, and I encourage you to use your own style of presentation as long as it is polished and clear.
+Templates for posters will be available on the lab wiki, and you can use those as much or as little as you’d like. Some general rules for posters should be followed: minimize text as much as possible (no paragraphs!), make figures and text large and easy to see at a distance, label your axes, and make sure different colors are easily discriminable. Other than that, go with your own style.
 
-### A note on colors
-The PRC is red,<br>
-the PHC is blue.<br>
-All other colors<br>
-are up to you.<br>
+Stefano is also happy to share slides from some of his talks if you would like to use a similar style. You’ll get a lot of feedback on your talks in any case, but other people’s slides might be helpful to you as you are setting up your talk. As with posters, feel free to go with your own style as long as it is polished and clear.
+
 
 ## Lab travel
-The lab will typically pay for full-time lab members to present their work at major conferences (e.g., SFN, CNS, CEMS). In general, the work should be "new" in that it has not been presented previously, and it should be appropriate for the conference. When I set our grant budgets, I estimate $1500 per trip, so your reimbursable costs should be around that amount or less. Meal costs will be reimbursed for people who are presenting work from the lab. The lab will also pay for new grad students and postdocs to attend one conference in their first year in lab. If travel expenses are being paid off of a grant, additional restrictions may apply (talk to me). All of these guidelines, of course, depend on the availability of funds.
+
+### Graduate students
+See [this webpage](https://www.bc.edu/content/bc-web/schools/mcas/graduate/current-students/forms/graduate-student-reimbursement-guidelines.html) for detailed information regarding reimbursement for conference travel expenses for graduate students. Psi Chi, the Psychology Honors Society, also offers opportunities for its members to apply for conference travel grants.
+### Undergraduate students
+The University Fellowships office sometimes offers reimbursements to undergraduate students for the travel costs incurred while presenting original research at a conference. If granted, this reimbursement will cover 50% of estimated travel costs up to a maximum reimbursement amount of $750. Contact Professor Jason Cavallari at [jason.cavallari@bc.edu](mailto:jason.cavallari@bc.edu) for more information. Psi Chi, the Psychology Honors Society, also offers opportunities for its members to apply for conference travel grants.
+### Other lab members
+Talk to Stefano. Depending on the availability of funds, the lab will typically pay for full-time lab members (e.g. postdocs, lab coordinators) to present their work at major conferences. In general, the work should be "new" in that it has not been presented previously, and it should be appropriate for the conference. If travel expenses are being paid for with a grant, additional restrictions may apply (talk to Stefano). 
+
 
 ## Recommendation letters
-Letters of recommendation are one of the many benefits of working in a research lab. I will write a letter for any student or lab member who has spent at least one year in the lab. Letters will be provided for shorter-term lab members in exceptional circumstances (e.g., new graduate students or postdocs applying for fellowships). I maintain this policy because I do not think that I can adequately evaluate someone who has been around for less than a year.
+Letters of recommendation are one of the many benefits of working in a research lab. Stefano will write a letter for any student or lab member who has spent at least six months in the lab. Letters will be provided for shorter-term lab members in exceptional circumstances (e.g., new graduate students or postdocs applying for fellowships). If you are not sure whether your circumstances would be considered "exceptional", Stefano will be happy to discuss it with you - it's always best to just ask! Stefano maintains this guideline because he is not necessarily able to adequately evaluate someone who has been around for less than six months.
 
-To request a letter of recommendation, please adhere to the deadline requirements described above. Send me your current CV and any relevant instructions for the contents of the letter. If you are applying for a grant, send me your specific aims or a short summary of the grant. In some but not all cases, I may ask you to draft a letter, which I will then revise to be consistent with my evaluation. This will ensure that I do not miss any details about your work that you think are relevant to the position you're applying for, and it will also help me complete the letter in a timely fashion.
+To request a letter of recommendation, please adhere to the deadline requirements described [above](#deadlines). Send Stefano your current CV and any relevant instructions for the contents of the letter. If you are applying for a grant, send him your specific aims or a short summary of the grant. In some but not all cases, he may ask you to draft a letter, which he will then revise to be consistent with his evaluation. This will ensure that he does not miss any details about your work that you think are relevant to the position you're applying for, and it will also help him complete the letter in a timely fashion.
 
 ## Data management
 ### Storing active datasets
 In general, data will be stored in one of three places:
+- **MySQL database on secure departmental server**
+ - Data to store here: data saved automatically by online experiment websites
 - **Lab folder on secure departmental server**
- - Data to store here: consent forms, keys to subject IDs (identifiable data ok)
-- **Google Drive**
- - Data to store here: behavioral data (no identifiable data!!!)
-  - All BC account holders have unlimited storage on Google Drive
- - Data folders should not be in the MemoLab Google Drive folder, but they should be shared with me and with any other relevant collaborators
-- **Linux cluster**
- - Data to store here: MRI and EEG data (identifiable data ok)
+ - Data to store here: backups of the raw data from the MySQL database above
 
-All three of these locations are approved on our IRB protocol. They are all backed up regularly, which make them particularly appealing options for data storage. In general, you should not store data locally on your computer unless it is being synced with your Google Drive folder (de-identified data only).
+These locations are approved on our IRB protocol. They are all backed up regularly, which make them particularly appealing options for data storage. In general, you should not store data locally on your computer.
 
 ### Data organization
 My project folders typically look something like this:
 - `ProjectName/Data`
   - contains a folder for raw data - always keep a copy of the raw (i.e., unprocessed) data & keep it separate from the copy that you're using in your pipeline
-  - subject folders s01, s02, etc for processed data
-  - this folder also contains a file documenting demographic & other summary info
 - `ProjectName/Analysis`
- - contains folders for each type of analysis, e.g., AnalysisOne, AnalysisTwo etc
+  - contains folders for each type of analysis, e.g., AnalysisOne, AnalysisTwo etc.
 - `ProjectName/Task`
- - contains folders for stimuli & presentation scripts, as well as any piloting info/data
+  - contains folders for stimuli & presentation scripts, as well as any piloting info/data
 - `ProjectName/Resources`
- - contains miscellaneous resources relevant to a project, e.g., ROIs, papers that are direct references for particular methods
+  - contains miscellaneous resources relevant to a project, e.g., ROIs, papers that are direct references for particular methods
 - `ProjectName/Scripts`
- - contains subfolders for different kinds of scripts, e.g., behav, preproc, helper, model, mvpa, etc
- - the Scripts folder is git-tracked & contains a README.md file that describes as much info as possible about the study
- - if you are using both git & Google Drive, make sure that you are not syncing the Scripts folder to Google Drive because that will mess up git. Conversely, don't sync stimuli & data files to git because that will blow up your repo over time. Use [symbolic links](http://www.howtogeek.com/194431/how-to-sync-any-folder-to-the-cloud-with-symbolic-links/) to tie everything together.
+  - contains subfolders for different kinds of scripts, e.g., behav, preproc, helper, model, mvpa, etc
+  - the Scripts folder is git-tracked & contains a README.md file that describes as much info as possible about the study
 
 I encourage you to use an organization scheme like this one. When you archive the dataset, you will be required to format it like this (or something similarly transparent in its organization), so might as well start that way. For neuroimaging datasets, you should additionally consult the [BIDS](http://bids.neuroimaging.io/) framework.
 
 ### Archiving inactive datasets
-Before you leave the lab, you will be required to document and archive any dataset that you have collected. I will review the dataset with you before you leave. [To add: information about where to archive data]
+Before you leave, or upon completion of a project, you must archive old datasets and back them up. We will develop the instructions for this when we reach our first inactive dataset.
 
-### Data sharing
-Not only is data-sharing the right thing to do, we are actually required to do so for any dataset that was funded by the NIH. We will make these datasets publicly available within a year of publishing the first paper from the dataset. You should also be prepared to share any scripts that you used in your published processing & analysis pipeline. Currently, the best option for sharing smaller datasets seems to be the [Open Science Framework](https://osf.io/), the best option for sharing MRI datasets is [OpenFMRI](https://openfmri.org/), and I don't yet know what is the best option for sharing EEG datasets.
+## Open Science
 
-# Funding
+We’re all for open science, so lab members are encouraged to share their code and data with others both in and out of the lab. Within lab, you can share your code and data whenever you like. Please wait to share your code or data publicly until both you and Stefano agree that it is clean, polished, and the lab has finished working with it. This gives us an opportunity to work with the data to meet our needs (including grant needs!) before releasing it for other people to use. Generally, we will try to make our data and code publicly available within one year of publishing the results (longer if work on the dataset is ongoing).  Currently, the best option for sharing smaller datasets seems to be the Open Science Framework, and the best option for sharing MRI datasets is [OpenFMRI](https://openfmri.org/). 
+
+We will also share our work with the world as soon as we are ready, which means preprints! The lab policy is to upload a preprint of a manuscript simultaneously with initial submission to a journal. The preferred preprint servers are bioRxiv and PsyArXiv. We will also put PDFs of all our papers on the lab website, and you should share PDFs of your paper with whoever asks.
+
+# Lab finances
+
+## Funding
 Funding for the lab comes from:
- - my start-up package from Boston College
- - National Institute of Mental Health (grant number **R00MH103401**)
+ - Stefano's start-up package from Boston College
+ - The Simons Foundation Autism Research Initiative Pilot Award
+ - ???
+Stefano will oversee all aspects of the financial management of our funding sources. However, it is important to him to be transparent about where research money comes from and how it's spent - please do not hesitate to ask if you want to know more details. At some point, you will likely be asked to provide a figure or two for a grant Stefano is writing, and/or provide feedback on the grant. Relatedly, you are entitled to read any grant Stefano has submitted, whether it is ultimately funded or not. Aside from being a good opportunity to learn how grants are written, this will also allow you to see his vision for the lab in the years ahead. Feel free to ask Stefano to see any of his grants.
 
-## Allocation of expenses
-I will oversee all aspects of the financial management of our funding sources. However, it is important to me to be transparent about where research money comes from and how it's spent. I have included some notes below but please do not hesitate to ask if you want to know more details.
-- **Start-up:** I do not think I'm technically allowed to disclose the terms of my job offer. However, we have money and it's enough to keep us going for awhile. Start-up funds are flexible in that they can be used for any justifiable purpose.
-- **R00:** The R00 has a budget of approximately $250,000 per year for 3 years. After indirects are taken out (i.e., money that BC charges to keep the lights on), this amounts to approximately $170,000 per year. All expenses that are consistent with the R00 budget/ aims should be charged to the R00 grant. Because NIH funds are more restricted than start-up funds and because they expire more quickly, we should use them whenever allowable and save start-up funds for other purposes.
+## Lab purchases
+Supply requests can be made by email to a lab coordinator and can include things such as books, computer accessories, etc. General lab supplies are replenished by lab coordinators as needed. If you need something and you’re not sure if the lab is able to cover the cost or not, just ask a lab coordinator or Stefano!
 
-## NIH funding notes
- All research funded by the NIH *must* acknowledge the grant number upon publication. This is essential for documenting that we are turning their money into research findings. We must also submit a yearly progress report describing what we have accomplished. Lab members involved in the research will be asked to contribute to the progress report.
+## Reimbursements
+
 
 # Undergraduate research
-Undergraduate research assistants play an important role in our lab, and we have a few opportunities for them to earn money or credit for their contributions. Because these opportunities require a certain degree of commitment from both the student and the lab, we generally reserve them for students who have already spent at least one semester volunteering in lab. If this policy would prevent you from being able to work in lab, please talk to me or the lab manager because we want all students to be able to pursue their research interests.
+Undergraduate research assistants play an important role in our lab, and we have a few opportunities for them to earn money or credit for their contributions. Because these opportunities require a certain degree of commitment from both the student and the lab, we generally reserve them for students who have already spent at least one semester volunteering in lab. If this policy would prevent you from being able to work in lab, please talk to Stefano or a lab coordinator because we want all students to be able to pursue their research interests.
 
 In addition to volunteering in lab, other research opportunities include:
  1. If you want to work in lab and earn course credit, you can sign up for independent study or undergraduate research ([link to info](https://www.bc.edu/bc-web/schools/mcas/departments/psychology/undergraduate/research-opportunities.html)). We will have to fill out a syllabus contract at the beginning of the semester. Typically you would be in lab for at least 10 hours a week, and you would also be required to attend lab meetings, present at one of them, and write a short statement about your experiences at the end of the semester. Note that you can enroll in research courses multiple times.
- 2. If you want to work in lab and earn money, you can apply for an [undergraduate research fellowship](https://www.bc.edu/schools/cas/services/faculty/facforms/researchfellows/reschfell.html). Candidates are expected to be academically strong (typically, GPA of 3.4 or above), and you would be expected to work 12-15 hours per week. Because these fellowships are intended to support your academic development, URF students will be strongly encouraged to participate in lab meetings. Note that if you have another BC job, you're not allowed to work more than 20 hours per week during the academic year, and that includes the URF hours (which will also count toward work-study).
+ 2. If you want to work in the lab and earn money, you can apply for an [undergraduate research fellowship](https://www.bc.edu/schools/cas/services/faculty/facforms/researchfellows/reschfell.html). Candidates are expected to be academically strong (typically, GPA of 3.4 or above), and you would be expected to work 12-15 hours per week. Because these fellowships are intended to support your academic development, URF students will be strongly encouraged to participate in lab meetings. Note that if you have another BC job, you're not allowed to work more than 20 hours per week during the academic year, and that includes the URF hours (which will also count toward work-study).
  3. If you want to work in lab, earn money, and are eligible for work-study, there may be other paid research opportunities available.
 
-If you're an undergraduate student and you want to pursue any of these options, talk to me or the lab manager.
+If you're an undergraduate student and you want to pursue any of these options, talk to Stefano or a lab coordinator.
 
 # FAQ and who to ask
 
-TBD. Ask me some questions.
+TBD. Ask some questions!
