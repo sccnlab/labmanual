@@ -273,9 +273,9 @@ To request a letter of recommendation, please adhere to the deadline requirement
 ### Storing active datasets
 In general, data will be stored in one of three places:
 - **MySQL database on secure departmental server**
- - Data to store here: data saved automatically by online experiment websites
+  - Data to store here: data saved automatically by online experiment websites
 - **Lab folder on secure departmental server**
- - Data to store here: backups of the raw data from the MySQL database above
+  - Data to store here: backups of the raw data from the MySQL database above
 
 These locations are approved on our IRB protocol. They are all backed up regularly, which make them particularly appealing options for data storage. In general, you should not store data locally on your computer.
 
