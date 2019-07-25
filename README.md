@@ -309,11 +309,11 @@ Google Calendar is used to host a general lab calendar (SCCN Lab). This calendar
 ## Funding
 Funding for the lab comes from:
  - Stefano's start-up package from Boston College
- - The Simons Foundation Autism Research Initiative Pilot Award
+ - The [Simons Foundation Autism Research Initiative Pilot Award](https://www.sfari.org/2019/02/22/sfari-winter-2019-pilot-awardees-announced/)
  
 Stefano will oversee all aspects of the financial management of our funding sources. However, it is important to him to be transparent about where research money comes from and how it's spent - please do not hesitate to ask if you want to know more details. At some point, you will likely be asked to provide a figure or two for a grant Stefano is writing, and/or provide feedback on the grant. Relatedly, you are entitled to read any grant Stefano has submitted, whether it is ultimately funded or not. Aside from being a good opportunity to learn how grants are written, this will also allow you to see his vision for the lab in the years ahead. Feel free to ask Stefano to see any of his grants.
 
-## Lab travel
+## Conference travel
 
 ### Graduate students
 See [this webpage](https://www.bc.edu/content/bc-web/schools/mcas/graduate/current-students/forms/graduate-student-reimbursement-guidelines.html) for detailed information regarding reimbursement for conference travel expenses for graduate students. Psi Chi, the Psychology Honors Society, also offers opportunities for its members to apply for conference travel grants.
@@ -326,10 +326,10 @@ Talk to Stefano. Depending on the availability of funds, the lab will typically 
 
 Lab members can request reimbursement for out-of-pocket business expenses by filling out an expense report and emailing the completed form, as well as all relevant receipts, to the [Psych Office](mailto:psychoffice@bc.edu) (the form can be downloaded from the Forms page on the lab wiki). If the purchase was made in person rather than online, then you must submit the original receipts, along with the expense report, directly to the Psych Office (no scans or photos allowed). All expense reports should be submitted within 30 days of the incurred expense. 
 
-Occasionally, non-lab members may incur costs for which they need reimbursement, such as the cost of an invited speaker's travel to/from the lab - in this case, a lab coordinator will fill out a Non-employee Expense Report (found on the lab wiki) on that person's behalf.
+Occasionally, non-lab members may incur costs for which they need reimbursement, such as the cost of an invited speaker's travel to/from the lab - in this case, a lab coordinator will fill out a Non-Employee Expense Report (found on the lab wiki) on that person's behalf.
 
 ## Lab purchases
-Lab coordinators are able to make purchases using the lab p-card (only when approved/overseen by Stefano). Supply requests can be made by email to a lab coordinator and can include things such as books, computer accessories, etc. General lab supplies are replenished by lab coordinators as needed. If you need something and you’re not sure if the lab is able to cover the cost or not, just ask a lab coordinator or Stefano!
+Only Stefano and lab coordinators (when overseen by Stefano) are able to make purchases using the lab p-card. Supply requests can be made by email to a lab coordinator and can include things such as books, computer accessories, etc. General lab supplies are replenished by lab coordinators as needed. If you need something and you’re not sure if the lab is able to cover the cost or not, just ask a lab coordinator or Stefano!
 
 # FAQ and who to ask
 
