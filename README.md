@@ -23,7 +23,6 @@
   - [Undergraduate research](#undergraduate-research)
 - [Lab resources](#lab-resources)
 - [Lab finances](#lab-finances)
-- 
 - [FAQ](#faq-and-who-to-ask)
 
 # Introduction
