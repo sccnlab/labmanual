@@ -127,7 +127,7 @@ Many topics have been covered above in the [Lab member expectations & responsibi
 
 All members of the lab, along with visitors, are expected to agree to the following code of conduct. We will enforce this code as needed. We expect cooperation from all members to help ensuring a safe environment for everybody. Please also see the Boston College Discriminatory Harassment Policy, which can be found [here](http://www.bc.edu/content/dam/files/offices/policies/pdf/policies/I/1-200-025.pdf), as well as many other essential Boston College policies, which can be found [here](https://www.bc.edu/offices/diversity/compliance.html).
 
-### Discrimination & Harassment
+### Discrimination & harassment
 
 The lab is dedicated to providing a discrimination- and harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, culture, ethnicity, or religion (or lack thereof). We do not tolerate discrimination or harassment of lab members in any form. Sexual language and imagery is not appropriate for any lab venue, including lab meetings, presentations, discussions, or outings.
 
@@ -143,12 +143,12 @@ We expect members to follow these guidelines at any lab-related event or gatheri
 
 ## Scientific integrity
 
-### Research (Mis)conduct
+### Research (mis)conduct
 The lab, and Boston College, is committed to ensuring research integrity, and we take a hard line on research misconduct. We will not tolerate fabrication, falsification, or plagiarism. Read BC’s policies on the conduct of research carefully (main page [here](https://www.bc.edu/bc-web/research/sites/vice-provost-for-research/integrity-and-compliance/research-misconduct.html), institutional policy [here](https://www.bc.edu/content/dam/files/offices/policies/doc/policies/IV/4-210-020.pdf), more information [here](https://www.bc.edu/content/bc-web/research/sites/vice-provost-for-research/integrity-and-compliance/research-integrity-principles.html)).
 
 A big problem is why people feel the need to engage in misconduct in the first place. If you are feeling pressured to succeed (publish a lot, publish in high impact journals), you should reach out to Stefano to talk about it – but this pressure is something we all face and is *never* an excuse to fabricate, falsify, or plagiarize. Also, think about the goal of science and why we are here: we’re here to arrive at the truth, to get as close as we can to facts about the brain and behavior. Not only is research misconduct doing you a disservice, it’s also a disservice to the field. And it risks your entire career. It is never right and never worth it. *Don’t do it*.
 
-### Reproducible Research
+### Reproducible research
 
 Reproducible research is research that can be exactly reproduced (i.e. one can find the exact same results) given the *same set of data*. Reproducible research is an essential part of science, and an expectation for all projects in the lab.
 
@@ -172,8 +172,8 @@ Because we are engaged in human subjects research, it is of the *utmost importan
 
 To be added to an existing IRB, reach out to a lab coordinator and send them your CITI Training certificate if you haven't already. If your project does not fall under the scope of a current IRB protocol, talk to Stefano and the lab coordinator about writing a new one or filing an amendment to an existing one. You must ensure that you have IRB approval to run your study before you begin (which means that you either submitted an IRB protocol that got approved, or your name was added to an existing or amended IRB). **Lab members must complete CITI training and be added to the research personnel list for the necessary IRB protocol(s) before they can work with any human subjects _or their data_**.
 
-### CITI Training
-Upon joining the lab, all lab members must complete [CITI Training](https://www.bc.edu/bc-web/research/sites/vice-provost-for-research/research-protections/training.html) if not yet completed, save their certificate of completion, and send it to a lab coordinator. All lab members are also expected to complete the refresher course when needed, according to the expiration date on their certificate. 
+### CITI training
+Upon joining the lab, all lab members must complete [CITI training](https://www.bc.edu/bc-web/research/sites/vice-provost-for-research/research-protections/training.html) if not yet completed, save their certificate of completion, and send it to a lab coordinator. All lab members are also expected to complete the refresher course when needed, according to the expiration date on their certificate. 
 
 ### Adverse events
 If you encounter any problems in the course of doing research that results in a negative outcome for the participant (e.g., if a participant becomes ill or upset, if there is an accident with the equipment, if there is a breach of confidentiality, etc.), you should immediately seek assistance from Stefano or a lab coordinator. If Stefano is not around, you must notify him **within 24 hours** - always as soon as possible. In some cases, we may need to report this information to the IRB and/or funding agencies.
@@ -268,7 +268,7 @@ Stefano encourages you to use an organization scheme like this one. When you arc
 Before you leave, or upon completion of a project, you must archive old datasets and back them up. We will develop the instructions for this when we reach our first inactive dataset.
 
 ### Open science
-We’re all for open science, so lab members are encouraged to share their code and data with others both in and out of the lab. Within lab, you can share your code and data whenever you like. Please wait to share your code or data publicly until both you and Stefano agree that it is clean, polished, and the lab has finished working with it. This gives us an opportunity to work with the data to meet our needs (including grant needs!) before releasing it for other people to use. Generally, we will try to make our data and code publicly available within one year of publishing the results (longer if work on the dataset is ongoing).  Currently, the best option for sharing smaller datasets seems to be the Open Science Framework, and the best option for sharing MRI datasets is [OpenFMRI](https://openfmri.org/). 
+We’re all for open science, so lab members are encouraged to share their code and data with others both in and out of the lab. Within lab, you can share your code and data whenever you like. Please wait to share your code or data publicly until both you and Stefano agree that it is clean, polished, and the lab has finished working with it. This gives us an opportunity to work with the data to meet our needs (including grant needs!) before releasing it for other people to use. Generally, we will try to make our data and code publicly available within one year of publishing the results (longer if work on the dataset is ongoing).  Currently, the best option for sharing smaller datasets seems to be the [Open Science Framework](https://osf.io/), and the best option for sharing MRI datasets is [OpenFMRI](https://openfmri.org/). 
 
 We will also share our work with the world as soon as we are ready, which means preprints! The lab policy is to upload a preprint of a manuscript simultaneously with initial submission to a journal. The preferred preprint servers are bioRxiv and PsyArXiv. We will also put PDFs of all our papers on the lab website, and you should share PDFs of your paper with whoever asks.
 
@@ -282,7 +282,7 @@ In addition to volunteering in the lab, other research opportunities include:
 
 If you're an undergraduate student and you want to pursue any of these options, reach out to Stefano or a lab coordinator.
 
-# Lab Resources
+# Lab resources
 
 ## Lab wiki
 
