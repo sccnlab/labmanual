@@ -14,7 +14,8 @@
   - [Human subjects research](#human-subjects-research)
 - [General policies](#general-policies)
   - [Hours](#hours)
-  - [Communication](#communication)
+  - [Meetings](#meetings)
+  - [Email](#email)
   - [Deadlines](#deadlines)
   - [Presentations](#presentations)
   - [Recommendation letters](#recommendation-letters)
@@ -182,39 +183,37 @@ If you encounter any problems in the course of doing research that results in a 
 ## Hours
 One of the benefits of a career in academic research is that it is typically more flexible than other kinds of jobs. However, you should still treat it like a job. If you are employed for 35 hours a week, you should be working 35 hours a week. This applies to lab staff members (the lab coordinators and other research assistants) and postdocs. You are not required to work overtime. For graduate students, Stefano recognizes that you have other demands on your time like classes and TA-ing but still expects to see you in the lab, working on research, often.
 
-Being in lab is a good way of learning from others, helping others, building camaraderie, having fast and easy access to the resources and people you may need, and being relatively free from distractions. Stefano's primary concern is that you get your work done, so if you find that you are sometimes more productive at home, feel free to work from home occasionally. If you have no meetings, no in-person experiments, and no other obligations on  a particular day, for example, that might be a good day to work from home – but avoid making it your default, and Stefano expects to see everyone in the lab on a regular basis. To maximize lab member interaction, Stefano encourages full-time lab members to try to be in the lab most weekdays during ‘peak’ hours (assuming no other obligations) – e.g., between 11am and 4pm. This is a guideline, not a hard rule - you can work from home occasionally, and Stefano understands other obligations. 
+Being in lab is a good way of learning from others, helping others, building camaraderie, having fast and easy access to the resources and people you may need, and being relatively free from distractions. Stefano's primary concern is that you get your work done, so if you find that you are sometimes more productive at home, feel free to work from home occasionally. If you have no meetings, no in-person experiments, and no other obligations on  a particular day, for example, that might be a good day to work from home – but avoid making that your default, and Stefano expects to see everyone in the lab on a regular basis.
 
-Stefano, lab coordinators, and other lab members may sometimes work late at night or on weekends. This means that they will sometimes send emails outside of normal working hours. They do not expect you to respond until you are back at work. Stefano does not expect there to be cases when he suddenly and urgently needs something from you over the weekend, but should he anticipate that happening (e.g., for a grant deadline), he will bring it up in advance so you can plan accordingly. As mentioned above in the [Email](#email) section, Stefano encourages all lab members to prioritize time away from work and to take care of email communications during your normal working hours, whatever those may be.
+Stefano, lab coordinators, and other lab members may sometimes work late at night or on weekends. This means that they will sometimes send emails outside of normal working hours. They do not expect you to respond until you are back at work. Stefano does not expect there to be cases when he suddenly and urgently needs something from you over the weekend, but should he anticipate that happening (e.g., for a grant deadline), he will bring it up in advance so you can plan accordingly.
 
 ### PI office hours
-In addition to weekly meetings (see below), Stefano will be in his office for at least part of each day that he is on campus. His door is often open; if it is, feel free to stop in if you need to discuss something. If his door is closed, assume that Stefano is either gone, in a meeting in his office, or is working and does not want to be disturbed – so unless it is an urgent matter, please email rather than knocking.
+Stefano will be in his office for at least part of each day that he is on campus. His door is often open; if it is, feel free to stop in if you need to discuss something. If his door is closed, assume that Stefano is either gone, in a meeting in his office, or is working and does not want to be disturbed – so unless it is an urgent matter, please email rather than knocking.
 
-## Communication
-
-### Meetings
-#### Weekly lab meetings
+## Meetings
+### Weekly lab meetings
 Weekly lab meetings will consist mainly of individual lab members sharing brief updates about what they worked on in the past week. Lab meetings will also occasionally include project presentations from lab members, or group discussions of important/relevant papers. Lab meetings will last no longer than 1.5 hours (and will most often be shorter). All full-time lab members are expected to attend the weekly lab meeting. All part-time lab members (including undergraduates) are welcome to attend, but attendance is not required. The lab meeting day & time will be determined at the beginning of each semester based on lab members' availability. 
 
 We will occasionally be invited to joint lab meetings with the [Morality Lab](https://moralitylab.bc.edu/) or other labs at BC. Joint lab meeting topics will include project presentations, article discussions, and invited talks. All lab members (both full-time and part-time) are encouraged, but not required, to attend.
 
-#### Invited talks
+### Invited talks
 Researchers from other universities will occasionally come to the lab to give talks and host discussions about their research; such talks, typically 1-2 hours in length, are likely to be no more frequent than every other week, and scheduling will vary based on the speaker's availability. All full-time lab members are expected to attend invited talks, as their schedules permit. All part-time lab members (including undergraduates) are welcome to attend, but attendance is not required. People from other labs are welcome to attend these talks (and often do).
 
-#### One-on-one meetings
-At the beginning of each semester, the lab coordinator(s) will schedule weekly one-on-one meetings between Stefano and each respective full-time lab member. The meetings are expected to last no more than one hour, but may occasionally be longer if necessary (and if both parties' schedules allow). If you do not have anything to discuss in a given week, that's fine - you can just stop in to say hi or cancel it. Part-time lab members, such as undergraduates, that are being mentored/supervised by Stefano directly will also have a weekly meeting with him. Those without regularly weekly meetings are still welcome to schedule meetings with Stefano as needed. 
+### One-on-one meetings
+At the beginning of each semester, the lab coordinator(s) will schedule weekly one-on-one meetings between Stefano and each respective full-time lab member. The meetings are expected to last no more than one hour, but may occasionally be longer if necessary (and only if both parties' schedules allow). If you do not have anything to discuss in a given week, that's fine - you can just stop in to say hi or cancel it. Part-time lab members, such as undergraduates, that are being mentored/supervised by Stefano directly will also have a weekly meeting with him. Those without regularly weekly meetings are still welcome to schedule meetings with Stefano as needed. 
 
-### Email
+## Email
 Email will be used as the primary means of "online" lab communication, such as general lab announcements, scheduling one-on-one meetings, and coordinating with collaborators about ongoing projects. Lab members, including Stefano and lab coordinators, may occasionally send emails late in the evening or on weekends/holidays, but you are not expected to immediately read or respond to emails sent at such times. Stefano encourages all lab members to prioritize time away from work and to take care of email communications during your normal working hours, whatever those may be. 
 
-#### Weekly update email
-In order to stay up-to-date about lab members' progress on individual projects, Stefano *requires* all lab members whom he directly supervises (i.e. all full-time lab members, and some undergraduates) to send him a weekly update email. You should send these emails to Stefano **immediately prior** to your weekly one-on-one meetings with him, and each email should answer the following questions:
+### Weekly update email
+In order to stay up-to-date about lab members' progress on individual projects, Stefano *requires* all lab members whom he directly supervises (i.e. all full-time lab members, and some undergraduates) to send him a weekly update email. You should send this email to Stefano **immediately prior** to your weekly one-on-one meeting with him, and each weekly email should answer the following questions:
 
 - **What have you worked on in the past week?**
   - Be specific - describe the tasks you worked on/completed rather than just a project name
 - **What would you like to discuss during this week's meeting?**
   - Possible examples: an ongoing project, new data to share, a question about methods, career advice, a topic you've been thinking about lately, an interesting new paper you read... 
 
-#### Email lists
+### Email lists
 We have an email list for sending emails to the entire lab when necessary ([sccnlabmembers@googlegroups.com](mailto:sccnlabmembers@googlegroups.com)). We also have an email list for sending emails to the lab meeting group ([sccnlabmeetings@googlegroups.com](mailto:sccnlabmeetings@googlegroups.com)). All lab members are on the lab meeting email list, but there are also some people on the list that aren’t members of the lab and are just interested in attending our lab meetings. Contact a lab coordinator to be added to the lab email lists.
 
 There is also a lab email account that only the lab coordinator(s) and Stefano can access ([sccnlab@gmail.com](mailto:sccnlab@gmail.com)) - people often contact the lab (e.g. with feedback after participating in an online study) through that email address. 
