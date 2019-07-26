@@ -5,7 +5,7 @@
   - [PI](#pi)
   - [Postdocs](#postdocs)
   - [Graduate students](#graduate-students)
-  - [Lab managers](#lab-managers)
+  - [Lab coordinators](#lab-coordinators)
   - [Other full-time staff](#other-full-time-staff)
   - [Undergraduate students](#undergraduate-students)
 - [Code of conduct](#code-of-conduct)
