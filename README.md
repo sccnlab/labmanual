@@ -53,7 +53,7 @@ To be added by Stefano. :)
 
 ### Small picture
 - Do not come into the lab if you are sick. Stay home and take care of yourself, and don't risk getting others sick.
-- Notify a lab coordinator or Stefano if you will be away, whether due to illness or travel. For long-term absences such as vacations, indicate your absence on the lab calendar. If you are sick and you had meetings or in-person experiments scheduled that day, notify your collaborators or participants and reschedule.
+- Notify a lab coordinator or Stefano if you will be away, whether due to illness or travel. If you are sick and you had meetings or in-person experiments scheduled that day, notify your collaborators or participants and reschedule.
 - You are not expected to come into lab on [staff holidays](http://www.bc.edu/offices/hr/resources/campusinfo/holidays.html). If you are being paid, then you *are* expected to come into lab during university breaks (except for staff holidays or if you're taking [paid vacation time](http://www.bc.edu/offices/hr/resources/handbook/hbk-benefits.html#vac)).
 - You aren't expected to work 80 hours a week, or to work from precisely 9am - 5pm every day. You *are* expected to show up to all of your commitments (classes, meetings) and to get your work done (whatever time of day you like to do it, and in the hours you need to get it done).
 - Lock the door to the lab if no one else is around, even if you're only stepping out for a minute.
@@ -223,7 +223,7 @@ In order to stay up-to-date about lab members' progress on individual projects, 
 #### Email lists
 The lab uses Google Groups to maintain two email lists: 1) [SCCN Lab Members](mailto:sccnlabmembers@googlegroups.com), which contains only current lab members, and 2) [SCCN Lab Meetings](mailto:sccnlabmeetings@googlegroups.com), which contains all current lab members in addition to people from other labs who are interested in attending invited talks that are hosted by our lab. Contact a lab coordinator to be added to the lab email lists. Only lab coordinators and Stefano currently have permission to send emails to these lists; emails sent by other people will bounce back. If you have something important you would like to send to the group, send it to a lab coordinator and they can send it out for you.
 
-There is also a lab email account that only the lab coordinator(s) and Stefano can access ([sccnlab@gmail.com](mailto:sccnlab@gmail.com)) - people often contact the lab (e.g. with feedback after participating in an online study) through that email address.  
+There is also a [lab email account](mailto:sccnlab@gmail.com) that only the lab coordinator(s) and Stefano can access - people often contact the lab (e.g. with feedback after participating in an online study) through that email address.  
 
 ## Deadlines
 If you need something from Stefano by a particular deadline, please inform him *as soon as you are aware of the deadline* so that he can allocate his time as efficiently as possible, and make sure he is aware of it the closer it gets. Don’t be afraid to bug him about it. 
