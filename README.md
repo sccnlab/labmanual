@@ -15,7 +15,7 @@
 - [General policies](#general-policies)
   - [Hours](#hours)
   - [Meetings](#meetings)
-  - [Email](#email)
+  - [Communication](#communication)
   - [Deadlines](#deadlines)
   - [Presentations](#presentations)
   - [Recommendation letters](#recommendation-letters)
@@ -203,10 +203,16 @@ Researchers from other universities will occasionally come to the lab to give ta
 ### One-on-one meetings
 At the beginning of each semester, the lab coordinator(s) will schedule weekly one-on-one meetings between Stefano and each respective full-time lab member. The meetings are expected to last no more than one hour, but may occasionally be longer if necessary (and only if both parties' schedules allow). If you do not have anything to discuss in a given week, that's fine - you can just stop in to say hi or cancel it. Part-time lab members, such as undergraduates, that are being mentored/supervised by Stefano directly will also have a weekly meeting with him. Those without regularly weekly meetings are still welcome to schedule meetings with Stefano as needed. 
 
-## Email
-Email will be used as the primary means of "online" lab communication, such as general lab announcements, scheduling one-on-one meetings, and coordinating with collaborators about ongoing projects. Lab members, including Stefano and lab coordinators, may occasionally send emails late in the evening or on weekends/holidays, but you are not expected to immediately read or respond to emails sent at such times. Stefano encourages all lab members to prioritize time away from work and to take care of email communications during your normal working hours, whatever those may be. 
+## Communication
+Lab members, including Stefano and lab coordinators, may occasionally send emails or Slack messages late in the evening or on weekends/holidays, but you are not expected to immediately read or respond to messages sent at such times. Stefano encourages all lab members to prioritize time away from work and to take care of work communications during your normal working hours, whatever those may be.
 
-### Weekly update email
+### Slack
+The lab uses Slack for quick, everyday communication, like sharing information about an upcoming talk, or announcing that there is leftover cake in the Psych Office. :) The lab is currently only using the free version of Slack, which has limited file storage and limited message archiving. This means that once the file & message limits are reached, older files and messages will automatically get deleted. For this reason, use email, the lab wiki, or Google Drive - not Slack - for having important conversations or sharing files that you want to be able to access again in the future.
+
+### Email
+The lab uses email for more important, long-term communication, such as sending out the semester meeting schedule or coordinating with collaborators about ongoing projects.  
+
+#### Weekly update email
 In order to stay up-to-date about lab members' progress on individual projects, Stefano *requires* all lab members whom he directly supervises (i.e. all full-time lab members, and some undergraduates) to send him a weekly update email. You should send this email to Stefano **immediately prior** to your weekly one-on-one meeting with him, and each weekly email should answer the following questions:
 
 - **What have you worked on in the past week?**
@@ -214,10 +220,10 @@ In order to stay up-to-date about lab members' progress on individual projects, 
 - **What would you like to discuss during this week's meeting?**
   - Possible examples: an ongoing project, new data to share, a question about methods, career advice, a topic you've been thinking about lately, an interesting new paper you read... 
 
-### Email lists
-We have an email list for sending emails to the entire lab when necessary ([sccnlabmembers@googlegroups.com](mailto:sccnlabmembers@googlegroups.com)). We also have an email list for sending emails to the lab meeting group ([sccnlabmeetings@googlegroups.com](mailto:sccnlabmeetings@googlegroups.com)). All lab members are on the lab meeting email list, but there are also some people on the list that aren’t members of the lab and are just interested in attending our lab meetings. Contact a lab coordinator to be added to the lab email lists.
+#### Email lists
+We have an email list for sending emails to the entire lab when necessary ([sccnlabmembers@googlegroups.com](mailto:sccnlabmembers@googlegroups.com)). We also have an email list for sending emails to the lab meeting group ([sccnlabmeetings@googlegroups.com](mailto:sccnlabmeetings@googlegroups.com)). All lab members are on the lab meeting email list, but there are also some people on the list that aren’t members of the lab and are just interested in attending our lab meetings. Contact a lab coordinator to be added to the lab email lists. Only lab coordinators and Stefano currently have permission to send emails to these lists; emails sent by other people will bounce back. If you have something important you would like to send to the group, send it to a lab coordinator and they can send it out for you.
 
-There is also a lab email account that only the lab coordinator(s) and Stefano can access ([sccnlab@gmail.com](mailto:sccnlab@gmail.com)) - people often contact the lab (e.g. with feedback after participating in an online study) through that email address. 
+There is also a lab email account that only the lab coordinator(s) and Stefano can access ([sccnlab@gmail.com](mailto:sccnlab@gmail.com)) - people often contact the lab (e.g. with feedback after participating in an online study) through that email address.  
 
 ## Deadlines
 If you need something from Stefano by a particular deadline, please inform him *as soon as you are aware of the deadline* so that he can allocate his time as efficiently as possible, and make sure he is aware of it the closer it gets. Don’t be afraid to bug him about it. 
